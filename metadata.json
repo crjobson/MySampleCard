@@ -1,3 +1,6 @@
 {
-	"Name": "MySampleCard"
+	"Name": "MySampleCard",
+	"CardClass": "HtmlTemplate",
+	"CustomType": "Welcome",
+	"Connection": "Optional, not set"
 }
