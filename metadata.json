@@ -1,6 +1,6 @@
 {
 	"CardClass": "HtmlTemplate",
-	"Connection": "ESPM",
+	"Connection": "SAPCPMobileServices",
 	"CustomType": "Welcome",
 	"Name": "MySampleCard"
 }
