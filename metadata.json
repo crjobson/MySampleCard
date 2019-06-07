@@ -1,6 +1,6 @@
 {
-	"Name": "MySampleCard",
 	"CardClass": "HtmlTemplate",
+	"Connection": "ESPM",
 	"CustomType": "Welcome",
-	"Connection": "Optional, not set"
+	"Name": "MySampleCard"
 }
